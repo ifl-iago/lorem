@@ -1,0 +1,1 @@
+Write-Output -inputobject "Hello world"; Start-Sleep -seconds 10;;
